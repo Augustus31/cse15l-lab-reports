@@ -3,8 +3,8 @@
 <br>
 <br>
 
-When times were hard, and spirits low,  
-<br>
+_When_ times were hard, and spirits low,  
+
 The garden stood, awash in glow  
 
 Its flowers there to give support  
@@ -47,3 +47,6 @@ Still growing deep inside our souls
 
 The tree of life, eternal scrolls.
 
+> Me.
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gardendesign.com%2Fflowers%2Feasy.html&psig=AOvVaw2cJYv7A9FoNPatV0IzJ6bJ&ust=1673569211036000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIigt6ThwPwCFQAAAAAdAAAAABAF)
