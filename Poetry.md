@@ -53,4 +53,8 @@ The tree of life, eternal scrolls.
 <br>
 <br>
 
-Want to actually visit my site? Go [here](https://honorius.us)
+Want to actually visit my site? Go [here](https://honorius.us).
+Some of my games:
+- Arrows
+- Escape from the Soviet Union
+- To the Ground!
