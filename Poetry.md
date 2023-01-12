@@ -12,9 +12,6 @@ Its flowers there to give support
 Against Ms.Hallford’s painful blow.  
 
 <br>
-
-***
-
 <br>
 
 Come rain or shine, come hail or gale,  
@@ -48,5 +45,7 @@ Still growing deep inside our souls
 The tree of life, eternal scrolls.
 
 > Me.
+
+***
 
 ![image](https://www.gardeningknowhow.com/wp-content/uploads/2007/03/flowers-1-400x300.jpg)
