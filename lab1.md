@@ -17,4 +17,8 @@ open on VSCode. Now we'll begin the remote login by typing `$ ssh cs15lwi23___@i
 If it tells you that the authenticity of the host can't be established and asks you whether you want to continue connecting, type in `yes`. Once you successfully input your password,
 your screen should look something like this: INSERT IMAGE HERE
 <br><br>
-Now you're ready to try some commands! `cd` allows you to change directory (try going to the parent directory, perhaps!) and `cd ~` takes you to the home directory. 
+Now you're ready to try some commands! `cd` allows you to change directory (try going to the parent directory, perhaps) and `cd ~` takes you to the home directory. 
+The `ls` command lists the files in your current directory, while modifications like `ls -l` and `ls -lat` provide more information. There are other commands as well, such as `cat` and `cp`, that you can try out. Here is a screenshot of some of what I did:
+INSERT IMAGE HERE
+<br><br>
+And that's it! You've successfully logged onto a remote server using shs and executed commands on the computer you're connected to. 
