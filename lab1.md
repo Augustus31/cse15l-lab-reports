@@ -9,7 +9,7 @@ and then change the password by clicking on the "change your password" link. It 
 (Note: Don't click the "check password" button, just hit enter when you've made your new password). Now you're ready to log into the remote server.
 <br><br>
 To begin, launch Visual Studio Code (VSCode). If you don't have the app, then just download it [here](https://code.visualstudio.com/download). Your VSCode window should look like this after installation:
-[image](lab1.1.png) <br>
+![image](lab1.1.png) <br>
 Next, if you're on Windows and don't have it already, 
 download git [here](https://gitforwindows.org/). I did this lab on the lab computers (which had git preinstalled), so I don't have personal experience with this specific step. 
 Using the steps outlined [here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994), get Git Bash 
