@@ -3,7 +3,7 @@
 Today, we're going to learn how to remotely connect to the UCSD server and test out some commands. The process is actually rather straightforward, and can be
 done in half an hour or less. 
 <br><br>
-First, we need to connect to the remote server using shs. To do that, you need your CSE 15L account set up. You can find your account [here](https://sdacs.ucsd.edu/~icc/index.php).
+First, you need to connect to the remote server using shs. To do that, you need your CSE 15L account set up. You can find your account [here](https://sdacs.ucsd.edu/~icc/index.php).
 When you enter your name and PID into the lookup, it'll present you with two accounts: your regular UCSD account and the course account that begins with cs15l. Select the latter,
 and then change the password by clicking on the "change your password" link. It will take you to the global password change portal, from where you can set your new password
 (Note: Don't click the "check password" button, just hit enter when you've made your new password). Now you're ready to log into the remote server.
