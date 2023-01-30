@@ -48,7 +48,31 @@ This server must be compiled with Server.java (the same file as the one used Lab
 In this image, I have entered the url `localhost:4000/add-message?s=juscelino` into my web browser. Since my server was launched on port 4000 on localhost, this sends the url to my server. This calls the `handleRequest` method with a parameter of the aforementioned url (packaged as a URI object in Java). The path is then extracted, and since it is `/add-message`, the code proceeds to extract the query (which begins after the `?`). Since valid queries are in the form `s=____`, the query is split using the `=`. If the first part of the query is indeed `s`, then the second part of the query is extracted and concatenated (along with a prepended newline) to the String `currStr`. `currStr` is the String that stores user input in this server, and was initialized to lambda (the empty String) when the server was launched. Finally, the (new) value of currStr is returned and printed on the webpage.  
 <br>
 ![image](sc2.PNG)
+<br>
 In this image, I have entered the url `localhost:4000/add-message?s=kubitscheck` into my web browser. The same processes occur as outlined in the previous image, with one change: the value of currStr is changed from `\nJuscelino` to `\nJuscelino\nKubitscheck`. `Kubitscheck` is simply concatenated to the String, with a newline before it. The new value of currStr is returned and printed on the webpage.
 <br><br><br>
-
+## Bugs
+<br>
+For this section, I will be focusing on the bug in the `reversed` method in the `ArrayExamples` class. <br>
+<br>
+Failure-inducing input: <br>
+```
+  @Test
+  public void testReversed2() {
+    int[] input1 = {4,5,6 };
+    assertArrayEquals(new int[]{6,5,4 }, ArrayExamples.reversed(input1));
+  }
+```
+<br>
+Successful input: <br>
+```
+  @Test
+  public void testReversed3() {
+    int[] input1 = {0,0};
+    assertArrayEquals(new int[]{0,0 }, ArrayExamples.reversed(input1));
+  }
+```
+<br>
+Symptoms:
+<br>
 
