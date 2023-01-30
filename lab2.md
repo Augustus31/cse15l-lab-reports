@@ -68,6 +68,7 @@ Failure-inducing input:
 <br>
 Successful input:
 <br>
+
 ```
   @Test
   public void testReversed3() {
@@ -75,6 +76,7 @@ Successful input:
     assertArrayEquals(new int[]{0,0 }, ArrayExamples.reversed(input1));
   }
 ```
+
 <br>
 Symptoms:
 <br>
