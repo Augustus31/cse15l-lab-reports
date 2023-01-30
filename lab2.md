@@ -51,7 +51,9 @@ In this image, I have entered the url `localhost:4000/add-message?s=juscelino` i
 <br>
 In this image, I have entered the url `localhost:4000/add-message?s=kubitscheck` into my web browser. The same processes occur as outlined in the previous image, with one change: the value of currStr is changed from `\nJuscelino` to `\nJuscelino\nKubitscheck`. `Kubitscheck` is simply concatenated to the String, with a newline before it. The new value of currStr is returned and printed on the webpage.
 <br><br><br>
+
 ## Bugs
+
 <br>
 For this section, I will be focusing on the bug in the `reversed` method in the `ArrayExamples` class. <br>
 <br>
