@@ -78,12 +78,19 @@ Successful input:
 ```
 
 <br>
+
 Symptoms:
+
 <br>
+
 ![image](sc3.png)
+
 <br>
+
 Buggy method (before):
+
 <br>
+
 ```
   static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
