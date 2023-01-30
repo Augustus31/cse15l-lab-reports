@@ -124,4 +124,6 @@ This fixes the issue because the original code was assigning the elements of the
 
 <br>
 
+## Takeaways
+
 I learned quite a bit about servers from this lab. Specifically, I learned that anyone can host a server from their own computer, and even make it publicly accessible through the use of ssh. I'm still not sure exactly how Server.java works, but I expect I'll learn about that later. In addition to this, I was also reminded that a buggy method can have accurate results some of the time, and that a lack of errors does not necessarily mean success (I knew this previously, of course, but it takes some reminding for it to stay in the front of the brain).
