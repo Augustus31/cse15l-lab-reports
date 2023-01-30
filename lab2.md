@@ -105,6 +105,7 @@ Buggy method (before):
 Bug fix (after):
 
 <br>
+
 ```
   static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
@@ -114,6 +115,7 @@ Bug fix (after):
     return newArray;
   }
 ```
+
 <br>
 
 This fixes the issue because the original code was assigning the elements of the original array based on elements of the (just-instantiated) new array, which is the opposite of how it's supposed to be. The fix was simply swapping the expressions on the two sides of the equal sign (on the line that begins `newArray = ...`). The return statement was changed as well, to return the new array rather than the original.
