@@ -1,5 +1,7 @@
 # Servers and Bugs
 
+## Servers
+
 The code for `StringServer` is as follows:  
 ```
 import java.io.IOException;
