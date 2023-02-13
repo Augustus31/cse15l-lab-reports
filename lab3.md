@@ -1,8 +1,10 @@
 ## Researching Commands  
+
 <br>
 For this lab, we will be working with the `find` command, discovering some interesting functionality along the way. All information has been gathered from this website: https://www.booleanworld.com/guide-linux-find-command/
 <br>
 # `type`
+
 <br>
 <br>
 The `-type` flag specifies the type of item the command is searching for - either a file or a directory. `-type f` searches only for files, while `type d` searches only for directories. 
