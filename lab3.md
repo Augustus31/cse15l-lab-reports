@@ -8,10 +8,13 @@ For this lab, we will be working with the `find` command, discovering some inter
 
 <br>
 <br>
-The ```-type``` flag specifies the type of item the command is searching for - either a file or a directory. ```-type f``` searches only for files, while ```type d``` searches only for directories. 
+
+The `-type` flag specifies the type of item the command is searching for - either a file or a directory. `-type f` searches only for files, while `type d` searches only for directories. 
+
 <br>
 <br>
-Example of ```-type f```:
+
+Example of `-type f`:
 
 ```
 $ find written_2 -type f
