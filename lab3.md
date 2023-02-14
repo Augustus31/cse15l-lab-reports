@@ -166,5 +166,18 @@ Searching for files that are at most 16 kb:
 <br>
 
 ```
+$ find written_2 -size -16k
+written_2/empty.txt
+written_2/non-fiction/OUP/Castro/chN.txt
+written_2/non-fiction/OUP/Castro/chO.txt
+written_2/non-fiction/OUP/Castro/chQ.txt
+...
+written_2/travel_guides/berlitz2/Portugal-History.txt
+written_2/travel_guides/berlitz2/PuertoRico-History.txt
+written_2/travel_guides/berlitz2/Vallarta-History.txt
+```
 
+<br>
+<br>
 
+This flag is useful to search for files of a particular size, or if there is a limit or minimum on file size that must be considered for some application.
