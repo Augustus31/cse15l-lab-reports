@@ -2,7 +2,7 @@
 
 <br>
 
-For this lab, we will be working with the `find` command, discovering some interesting functionality along the way. All information has been gathered from [this website.](https://www.booleanworld.com/guide-linux-find-command/)
+For this lab, we will be working with the `find` command, discovering some interesting functionality along the way. All information has been gathered from [https://www.booleanworld.com/guide-linux-find-command/](https://www.booleanworld.com/guide-linux-find-command/)
 
 <br>
 
