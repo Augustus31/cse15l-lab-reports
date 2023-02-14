@@ -4,7 +4,7 @@
 For this lab, we will be working with the `find` command, discovering some interesting functionality along the way. All information has been gathered from this website: https://www.booleanworld.com/guide-linux-find-command/.
 <br>
 
-## `type`
+## `-type`
 
 <br>
 <br>
@@ -89,7 +89,7 @@ As can be seen, the two commands did what was expected: the first one found the 
 <br>
 <br>
 
-## `mtime`
+## `-mtime`
 
 <br>
 <br>
