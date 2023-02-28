@@ -10,7 +10,7 @@ This lab report details steps 4-9 as outlined in the Week 7 lab.
 
 <br>
 
-INSERT IMAGE HERE
+![Image Step 4](lab7.1.png)
 
 <br>
 
@@ -22,7 +22,7 @@ In this step, I simply typed out `ssh cs15lwi23ado@ieng6.ucsd.edu` and hit `<ent
 
 <br>
 
-INSERT IMAGE HERE
+![Image Step 5](lab7.2.png)
 
 <br>
 
@@ -34,7 +34,7 @@ Here, I copied the ssh clone command from github using `Ctrl-C` and pasted it in
 
 <br>
 
-INSERT IMAGE HERE
+![Image Step 6](lab7.3.png)
 
 <br>
 
@@ -46,7 +46,7 @@ First, I moved into the repository by typing `cd lab7fork`. Then, I went to the 
   
 <br>
 
-INSERT IMAGE HERE
+![Image Step 7](lab7.4.png)
 
 <br>
 
@@ -58,7 +58,7 @@ To enter the text editor, I typed in `nano ListExamples.java`. I then scanned th
   
 <br>
   
-INSERT IMAGE HERE
+![Image Step 8](lab7.5.png)
   
 <br>
   
@@ -70,7 +70,7 @@ Initially, I tried to simply run the tests again, but it gave me an error and I 
   
 <br>
   
-INSERT IMAGE HERE
+![Image Step 9](lab7.6.png)
   
 <br>
   
