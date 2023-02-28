@@ -10,7 +10,7 @@ This lab report details steps 4-9 as outlined in the Week 7 lab.
 
 <br>
 
-![Image Step 4](lab7.1.png)
+![Image Step 4](lab7.1.PNG)
 
 <br>
 
