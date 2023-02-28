@@ -74,4 +74,4 @@ Initially, I tried to simply run the tests again, but it gave me an error and I 
   
 <br>
   
-Here, I did `git add ListExamples.java`, `git commit -m "Bug Fixes"` (after failing once by forgetting to put a message), and finally `git push origin main`. This successfully committed and pushed the changes to Github. 
+Here, I did `git add ListExamples.java`, `git commit -m "Bug fix"` (after failing once by forgetting to put a message), and finally `git push origin main`. This successfully committed and pushed the changes to Github. 
