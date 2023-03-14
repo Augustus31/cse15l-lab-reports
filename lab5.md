@@ -24,7 +24,7 @@ This script essentially runs all of the commands I ran by hand in the previous l
 
 ## Running the Script
 
-I wrote this script on my machine, so I used `scp` to transfer it to the remote server. Then, I logged onto the remote server and ran it from there. See the following screenshots for exactly what I did:
+I wrote this script on my machine, so I used `scp` to transfer it to the remote server. Then, I logged onto the remote server and ran it from there. See the following screenshots for exactly what I did on the remote server:
 
 ![img1](lab9.1.PNG)
 
